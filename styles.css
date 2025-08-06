@@ -3,24 +3,3 @@ table {
     border-spacing: 1px;
     padding: 1px;
 }
-
-.middle {
-    /* Add any specific styles for middle class if needed */
-}
-
-.center {
-    text-align: center;
-}
-
-.right {
-    text-align: right;
-}
-
-/* Additional styles for colors */
-.green {
-    background-color: green;
-}
-
-.blue {
-    background-color: blue;
-}
